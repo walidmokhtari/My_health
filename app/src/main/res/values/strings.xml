@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My health</string>
+    <string name="db_title">Welcome, choose a service</string>
+    <string name="service_confinement">My confinement</string>
+    <string name="service_bg">My childs B.G</string>
+    <string name="service_temperature">My temperature</string>
+    <string name="service_imc">My IMC</string>
+    <string name="message_wtmcs">Welcome to my confinement service</string>
+    <string name="message_wtmts">Welcome to my temperature service</string>
+    <string name="message_wtmis">Welcome to my IMC service</string>
+    <string name="message_wtmcbgs">Welcome to my Childs B.G service</string>
+    <string name="message_nodstt">Number of days since the test :</string>
+    <string name="message_nod">Number of days</string>
+    <string name="message_yt">Your temperature : </string>
+    <string name="message_yw">Your weight : </string>
+    <string name="message_ys">Your size : </string>
+    <string name="message_t">C°</string>
+    <string name="message_kg">KG</string>
+    <string name="message_m">m</string>
+    <string name="message_check">Check</string>
+    <string name="message_ci">Check IMC</string>
+    <string name="message_answer">Answer : </string>
+    <string name="message_ii">Invalid input : </string>
+    <string name="message_ad">End of confinement</string>
+    <string name="message_msc">You must stay confined, you have left : </string>
+    <string name="message_yaa">You are a : </string>
+    <string name="message_yas">You are skinny</string>
+    <string name="message_ywin">Your weight is normal</string>
+    <string name="message_yacto">You are close to obesity</string>
+    <string name="message_yao">You are obese</string>
+    <string name="message_yntsad">You need to see a doctor</string>
+    <string name="message_ytio">Your temperature is OK</string>
+    <string name="message_fbg">Father B.G : </string>
+    <string name="message_mbg">Mother B.G : </string>
+    <string name="message_mbga">It is quite possible that your child is in the group : A</string>
+    <string name="message_mbgb">It is quite possible that your child is in the group : B</string>
+    <string name="message_mbgab">It is quite possible that your child is in the group : AB</string>
+    <string name="message_mbgo">It is quite possible that your child is in the group : O</string>
+    <string name="message_ow">Our website</string>
+
+
+    <string-array name="sexe_items">
+        <item>Woman</item>
+        <item>Man</item>
+    </string-array>
+
+    <string-array name="bg_items">
+        <item>A</item> //0
+        <item>B</item> //1
+        <item>AB</item>//2
+        <item>O</item> //3
+    </string-array>
+
+</resources>

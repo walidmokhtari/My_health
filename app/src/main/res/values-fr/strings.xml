@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma santé</string>
+    <string name="db_title">Bienvenus, choisissez un service</string>
+    <string name="service_confinement">Mon confinement</string>
+    <string name="service_bg">G.S enfant</string>
+    <string name="service_temperature">Ma temperature</string>
+    <string name="service_imc">Mon IMC</string>
+    <string name="message_wtmcs">Bienvenus dans le service de mon confinement</string>
+    <string name="message_wtmts">Bienvenus dans le service de ma temperature</string>
+    <string name="message_wtmis">Bienvenus dans le service de mon IMC</string>
+    <string name="message_wtmcbgs">Bienvenus dans le service de G.S de mon enfant</string>
+    <string name="message_nodstt">Nb jours depuis le test positif:</string>
+    <string name="message_nod">Nombre de jours</string>
+    <string name="message_yt">Votre temperature : </string>
+    <string name="message_yw">Votre poid : </string>
+    <string name="message_ys">Votre taille : </string>
+    <string name="message_t">C°</string>
+    <string name="message_kg">KG</string>
+    <string name="message_m">m</string>
+    <string name="message_check">Vérifier</string>
+    <string name="message_ci">Vérifier IMC</string>
+    <string name="message_answer">Réponse : </string>
+    <string name="message_ii">Entrée incorrecte</string>
+    <string name="message_ad">Fin de confinement</string>
+    <string name="message_msc">Vous devez rester confinés pendant : </string>
+    <string name="message_yaa">Vous êtes un/une : </string>
+    <string name="message_yas">Vous êtes maigre</string>
+    <string name="message_ywin">Votre poid est normal</string>
+    <string name="message_yacto">Vous êtes proche de l\'obèsité</string>
+    <string name="message_yao">Vous êtes obèse</string>
+    <string name="message_yntsad">Vous devez voir un médecin</string>
+    <string name="message_ytio">Votre temperature est normale</string>
+    <string name="message_fbg">G.S pére : </string>
+    <string name="message_mbg">G.S mére : </string>
+    <string name="message_mbga">Il est fort possible que le G.S de votre enfant sois : A</string>
+    <string name="message_mbgb">Il est fort possible que le G.S de votre enfant sois : B</string>
+    <string name="message_mbgab">Il est fort possible que le G.S de votre enfant sois : AB</string>
+    <string name="message_mbgo">Il est fort possible que le G.S de votre enfant sois : O</string>
+    <string name="message_ow">Notre site web</string>
+
+    <string-array name="sexe_items">
+        <item>Femme</item>
+        <item>Homme</item>
+    </string-array>
+</resources>
